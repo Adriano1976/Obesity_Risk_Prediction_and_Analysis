@@ -2,6 +2,8 @@
 
 Data for this competition (both training and testing) were generated from a deep learning model trained in the risk data set or cardiovascular disease.The characteristics distributions are close, but not exactly the same, those of the original data set.I feel free to use the original data set as part of this competition, both to explore differences and to see if incorporating the original in training improves model performance.
 
+![image](https://github.com/Adriano1976/Obesity_Risk_Prediction_and_Analysis/assets/17755195/3e40808d-7e44-4a7b-af4c-fb4756be6ad8)
+
 ### Facts
 - 📊 The data set was generated from a deep learning model trained in the risk data set or cardiovascular disease.
 - 📑 Training and testing sets are available in order to predict the Nobeyesdad class for each line in the test assembly.
@@ -48,6 +50,14 @@ Data for this competition (both training and testing) were generated from a deep
 * Obesity_Type_II     : 35.0 to 39.9
 * Obesity_Type_III   : Higher than 40
 * Overweight_Level_I, Overweight_Level_II takes values between 25 to 29
+
+<div style="font-size:120%"> 
+    <b>Files:</b>
+</div>
+
+- **train.csv** - the training dataset; NObeyesdad is the categorical target
+- **test.csv** - the test dataset; your objective is to predict the class of NObeyesdad for each row
+- **sample_submission.csv** - a sample submission file in the correct format
 
 <hr>
 
