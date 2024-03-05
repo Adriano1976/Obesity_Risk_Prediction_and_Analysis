@@ -2,9 +2,10 @@
 
 Data for this competition (both training and testing) were generated from a deep learning model trained in the risk data set or cardiovascular disease.The characteristics distributions are close, but not exactly the same, those of the original data set.I feel free to use the original data set as part of this competition, both to explore differences and to see if incorporating the original in training improves model performance.
 
-![image](https://github.com/Adriano1976/Obesity_Risk_Prediction_and_Analysis/assets/17755195/3e40808d-7e44-4a7b-af4c-fb4756be6ad8)
+![image](https://github.com/Adriano1976/Obesity_Risk_Prediction_and_Analysis/assets/17755195/8d4feb4c-5357-4fb9-8fec-e16fe0e1bd70)
 
 ### Facts
+
 - 📊 The data set was generated from a deep learning model trained in the risk data set or cardiovascular disease.
 - 📑 Training and testing sets are available in order to predict the Nobeyesdad class for each line in the test assembly.
 - 💡 This data set is especially suitable for views, groupings and data exploration in general.
